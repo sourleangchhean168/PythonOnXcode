@@ -43,6 +43,7 @@ Now, click the Arguments tab. Click + under “Arguments Passed On Launch” and
 ## Step 8. Testing with python code
 
 Finished
+
 Thanks and i hope it can help you to getting start python with xcode. If you have any question, Feel free to ask and I will answer as can as possible. If you like it. please share it around. Happy Coding …… :)
 ## About Me
 Medium: Sour LeangChhean
