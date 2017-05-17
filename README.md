@@ -2,7 +2,10 @@
 Example Project that set up for python Programming
 Using Xcode to execute python’s code.
 
-Currently I’m working with a project that involve with Python Programming. So I need to start up to learn about python programming. However, I don’t like to use with Python REPL. And for now i decided to use Xcode instead then i’m trying to find the best solution for make my work easy more and more. More detail here: https://medium.com/@sourleangchhean/using-xcode-to-execute-pythons-code-98be65c1ea8a
+Currently I’m working with a project that involve with Python Programming. So I need to start up to learn about python programming. However, I don’t like to use with Python REPL. And for now i decided to use Xcode instead then i’m trying to find the best solution for make my work easy more and more. 
+
+More detail here: https://medium.com/@sourleangchhean/using-xcode-to-execute-pythons-code-98be65c1ea8a
+
 Ok, These is some step i need to set up my project. 
 ## Step 1: Install Python 3.6
 You can download and install with this url: https://www.python.org/downloads/sdfsdf
