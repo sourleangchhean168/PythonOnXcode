@@ -7,7 +7,9 @@ Ok, These is some step i need to set up my project.
 ## Step 1: Install Python 3.6
 You can download and install with this url: https://www.python.org/downloads/sdfsdf
 or install with Homebrew: or Python 3:
-$ brew install python3sdfsdf
+
+$ brew install python3
+
 This will take a minute or two.
 ## Step 2: Locate python3
 for me i use tcsh, so where python3 reports /usr/local/bin/python3. The location is surely the same for you, but I don’t know what the equivalent for where is in bash.
@@ -31,12 +33,19 @@ I warn you now that this step is going to be delicate, fragile, and stupid. That
 In the Info tab. Select “Other” from the Executable pop-up list. A file selection dialog appears.
 
 When dialog pop, Go to Terminal then Type: cd /usr/local/bin
+
 Type open /usr/local/bin
+
 Right Click on Python3.6 then select Show Original
+
 Get in to that location in terminal and Type ln python3.6 python36
+
 Type open .
+
 Drag python36 to Choose an executable to launch dialog box.
+
 Select python36 then click choose button.
+
 ## Step 7. Add Launch Arguments
 Now, click the Arguments tab. Click + under “Arguments Passed On Launch” and type $(SRCROOT)/ followed by the name of the Python file you created in Step 4.
 
